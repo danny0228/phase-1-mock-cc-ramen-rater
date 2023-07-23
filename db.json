@@ -39,6 +39,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Maruchan",
+      "restaurant": "Walmart",
+      "image": "https://www.meijer.com/content/dam/meijer/product/0004/17/8900/25/0004178900257_0_A1C1_1200.png",
+      "rating": "10",
+      "new-comment": "Fast and Easy",
+      "id": 6
     }
   ]
 }
